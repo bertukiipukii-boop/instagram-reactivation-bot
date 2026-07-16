@@ -1,0 +1,159 @@
+[2026-07-16 17:53:57] INFO     InstagramBot: ==================================================
+[2026-07-16 17:53:57] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 17:53:57] INFO     InstagramBot: ==================================================
+[2026-07-16 17:53:57] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 17:53:57] ERROR    InstagramBot: Fatal error: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+[2026-07-16 17:53:57] INFO     InstagramBot: 🛑 Shutting down bot...
+[2026-07-16 17:53:57] INFO     InstagramBot: ⏹️ Stopping monitor...
+[2026-07-16 17:54:02] ERROR    InstagramBot: Failed to send notification: Chat not found
+[2026-07-16 17:54:02] ERROR    InstagramBot: Fatal error: 'TelegramBotHandler' object has no attribute 'app'
+[2026-07-16 17:56:13] INFO     InstagramBot: ==================================================
+[2026-07-16 17:56:13] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 17:56:13] INFO     InstagramBot: ==================================================
+[2026-07-16 17:56:13] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 17:56:13] ERROR    InstagramBot: Fatal error: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+[2026-07-16 17:56:13] INFO     InstagramBot: 🛑 Shutting down bot...
+[2026-07-16 17:56:13] INFO     InstagramBot: ⏹️ Stopping monitor...
+[2026-07-16 17:56:14] ERROR    InstagramBot: Failed to send notification: Chat not found
+[2026-07-16 17:56:14] INFO     InstagramBot: ✅ Bot shutdown complete
+[2026-07-16 18:22:43] INFO     InstagramBot: ==================================================
+[2026-07-16 18:22:43] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 18:22:43] INFO     InstagramBot: ==================================================
+[2026-07-16 18:22:43] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 18:22:43] ERROR    InstagramBot: Fatal error: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+[2026-07-16 18:22:43] INFO     InstagramBot: 🛑 Shutting down bot...
+[2026-07-16 18:22:43] INFO     InstagramBot: ⏹️ Stopping monitor...
+[2026-07-16 18:22:44] ERROR    InstagramBot: Failed to send notification: Chat not found
+[2026-07-16 18:22:44] INFO     InstagramBot: ✅ Bot shutdown complete
+[2026-07-16 18:24:33] INFO     InstagramBot: ==================================================
+[2026-07-16 18:24:33] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 18:24:33] INFO     InstagramBot: ==================================================
+[2026-07-16 18:24:33] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 18:24:33] ERROR    InstagramBot: Fatal error: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+[2026-07-16 18:24:33] INFO     InstagramBot: 🛑 Shutting down bot...
+[2026-07-16 18:24:33] INFO     InstagramBot: ⏹️ Stopping monitor...
+[2026-07-16 18:24:34] ERROR    InstagramBot: Failed to send notification: Chat not found
+[2026-07-16 18:24:34] INFO     InstagramBot: ✅ Bot polling stopped
+[2026-07-16 18:24:34] INFO     InstagramBot: ✅ Bot shutdown complete
+[2026-07-16 18:39:45] INFO     InstagramBot: ==================================================
+[2026-07-16 18:39:45] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 18:39:45] INFO     InstagramBot: ==================================================
+[2026-07-16 18:39:45] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 18:39:45] INFO     InstagramBot: ✅ Telegram bot setup complete
+[2026-07-16 18:39:45] INFO     InstagramBot: ✅ Bot started successfully
+[2026-07-16 18:39:45] INFO     InstagramBot: 🚀 Starting monitor...
+[2026-07-16 18:39:46] INFO     InstagramBot: ✅ Bot polling started
+[2026-07-16 18:42:25] INFO     InstagramBot: User kushagra started bot
+[2026-07-16 18:45:19] INFO     InstagramBot: Received signal 2, shutting down...
+[2026-07-16 18:45:19] INFO     InstagramBot: 🛑 Shutting down bot...
+[2026-07-16 18:45:19] INFO     InstagramBot: ⏹️ Stopping monitor...
+[2026-07-16 18:45:20] INFO     InstagramBot: ✉️ Notification sent
+[2026-07-16 18:45:23] INFO     InstagramBot: ✅ Bot stopped
+[2026-07-16 18:45:23] INFO     InstagramBot: ✅ Bot shutdown complete
+[2026-07-16 18:49:09] INFO     InstagramBot: ==================================================
+[2026-07-16 18:49:09] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 18:49:09] INFO     InstagramBot: ==================================================
+[2026-07-16 18:49:09] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 18:49:09] INFO     InstagramBot: ✅ Database initialized
+[2026-07-16 18:49:09] INFO     InstagramBot: ✅ Telegram bot setup complete
+[2026-07-16 18:49:09] INFO     InstagramBot: ✅ Bot started successfully
+[2026-07-16 18:49:09] INFO     InstagramBot: 🚀 Monitor started
+[2026-07-16 18:49:09] INFO     InstagramBot: 🔄 Starting monitor loop...
+[2026-07-16 18:49:10] INFO     InstagramBot: ✅ Bot polling started
+[2026-07-16 18:51:39] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:51:39] INFO     InstagramBot: 🛑 Shutting down...
+[2026-07-16 18:51:39] INFO     InstagramBot: 🛑 Monitor stopped
+[2026-07-16 18:51:40] INFO     InstagramBot: ✅ Bot stopped
+[2026-07-16 18:51:40] INFO     InstagramBot: ✅ Shutdown complete
+[2026-07-16 18:52:03] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:52:03] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:52:04] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:52:04] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:52:04] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:52:05] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:52:05] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:53:34] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:53:34] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:53:35] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:53:35] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:53:35] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:53:36] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:53:36] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:53:36] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:53:36] INFO     InstagramBot: Signal 2 received
+[2026-07-16 18:57:02] INFO     InstagramBot: ==================================================
+[2026-07-16 18:57:02] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 18:57:02] INFO     InstagramBot: ==================================================
+[2026-07-16 18:57:02] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 18:57:02] INFO     InstagramBot: ✅ Database initialized
+[2026-07-16 18:57:02] INFO     InstagramBot: Setting up Telegram bot...
+[2026-07-16 18:57:02] INFO     InstagramBot: ✅ All command handlers registered
+[2026-07-16 18:57:02] INFO     InstagramBot: ✅ Bot started successfully
+[2026-07-16 18:57:02] INFO     InstagramBot: 🚀 Monitor started
+[2026-07-16 18:57:02] INFO     InstagramBot: 🔄 Starting monitor loop...
+[2026-07-16 18:57:03] INFO     InstagramBot: ✅ Bot polling started
+[2026-07-16 18:57:16] INFO     InstagramBot: Help command requested
+[2026-07-16 18:57:36] INFO     InstagramBot: Add command received. Args: ['onecuptwogirlss']
+[2026-07-16 18:57:36] INFO     InstagramBot: ✅ Added account to monitoring: onecuptwogirlss
+[2026-07-16 18:57:36] INFO     InstagramBot: Added account: onecuptwogirlss
+[2026-07-16 18:57:44] INFO     InstagramBot: List command received
+[2026-07-16 18:57:45] INFO     InstagramBot: List command sent
+[2026-07-16 18:58:19] INFO     InstagramBot: Status command received. Args: ['onecuptwogirlss']
+[2026-07-16 18:58:20] INFO     InstagramBot: Status check for onecuptwogirlss
+[2026-07-16 18:58:33] INFO     InstagramBot: Status command received. Args: ['cristiano']
+[2026-07-16 19:02:02] INFO     InstagramBot: 📊 Checking 1 accounts...
+[2026-07-16 19:02:12] WARNING  InstagramBot: ⚠️ onecuptwogirlss: UNKNOWN
+[2026-07-16 19:02:13] INFO     InstagramBot: ✅ Check complete. Waiting 300s...
+[2026-07-16 19:02:24] INFO     InstagramBot: Signal 2 received
+[2026-07-16 19:02:25] INFO     InstagramBot: 🛑 Shutting down...
+[2026-07-16 19:02:25] INFO     InstagramBot: 🛑 Monitor stopped
+[2026-07-16 19:02:25] INFO     InstagramBot: ✅ Bot stopped
+[2026-07-16 19:02:25] INFO     InstagramBot: ✅ Shutdown complete
+[2026-07-16 19:03:39] INFO     InstagramBot: ==================================================
+[2026-07-16 19:03:39] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 19:03:39] INFO     InstagramBot: ==================================================
+[2026-07-16 19:03:39] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 19:03:39] INFO     InstagramBot: ✅ Database initialized
+[2026-07-16 19:03:39] INFO     InstagramBot: Setting up Telegram bot...
+[2026-07-16 19:03:39] INFO     InstagramBot: ✅ All command handlers registered
+[2026-07-16 19:03:39] INFO     InstagramBot: ✅ Bot started successfully
+[2026-07-16 19:03:39] INFO     InstagramBot: 🚀 Monitor started
+[2026-07-16 19:03:39] INFO     InstagramBot: 🔄 Starting monitor loop...
+[2026-07-16 19:03:40] INFO     InstagramBot: ✅ Bot polling started
+[2026-07-16 19:05:47] INFO     InstagramBot: Signal 2 received
+[2026-07-16 19:05:48] INFO     InstagramBot: 🛑 Shutting down...
+[2026-07-16 19:05:48] INFO     InstagramBot: 🛑 Monitor stopped
+[2026-07-16 19:05:48] INFO     InstagramBot: ✅ Bot stopped
+[2026-07-16 19:05:48] INFO     InstagramBot: ✅ Shutdown complete
+[2026-07-16 19:06:52] INFO     InstagramBot: ==================================================
+[2026-07-16 19:06:52] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 19:06:52] INFO     InstagramBot: ==================================================
+[2026-07-16 19:06:52] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 19:06:52] INFO     InstagramBot: ✅ Database initialized
+[2026-07-16 19:06:52] INFO     InstagramBot: Setting up Telegram bot...
+[2026-07-16 19:06:52] INFO     InstagramBot: ✅ All command handlers registered
+[2026-07-16 19:06:52] INFO     InstagramBot: ✅ Bot started successfully
+[2026-07-16 19:06:52] INFO     InstagramBot: 🚀 Monitor started
+[2026-07-16 19:06:52] INFO     InstagramBot: 🔄 Starting monitor loop...
+[2026-07-16 19:06:52] INFO     InstagramBot: ✅ Bot polling started
+[2026-07-16 19:07:41] INFO     InstagramBot: Signal 2 received
+[2026-07-16 19:07:42] INFO     InstagramBot: 🛑 Shutting down...
+[2026-07-16 19:07:42] INFO     InstagramBot: 🛑 Monitor stopped
+[2026-07-16 19:07:42] INFO     InstagramBot: ✅ Bot stopped
+[2026-07-16 19:07:42] INFO     InstagramBot: ✅ Shutdown complete
+[2026-07-16 19:08:44] INFO     InstagramBot: ==================================================
+[2026-07-16 19:08:44] INFO     InstagramBot: 🤖 Instagram Reactivation Monitor Bot
+[2026-07-16 19:08:44] INFO     InstagramBot: ==================================================
+[2026-07-16 19:08:44] INFO     InstagramBot: ✅ Configuration validated
+[2026-07-16 19:08:44] INFO     InstagramBot: ✅ Database initialized
+[2026-07-16 19:08:44] INFO     InstagramBot: Setting up Telegram bot...
+[2026-07-16 19:08:44] INFO     InstagramBot: ✅ All command handlers registered
+[2026-07-16 19:08:44] INFO     InstagramBot: ✅ Bot started successfully
+[2026-07-16 19:08:44] INFO     InstagramBot: 🚀 Monitor started
+[2026-07-16 19:08:44] INFO     InstagramBot: 🔄 Starting monitor loop...
+[2026-07-16 19:08:45] INFO     InstagramBot: ✅ Bot polling started
+[2026-07-16 19:12:34] INFO     InstagramBot: Signal 2 received
+[2026-07-16 19:12:34] INFO     InstagramBot: 🛑 Shutting down...
+[2026-07-16 19:12:34] INFO     InstagramBot: 🛑 Monitor stopped
+[2026-07-16 19:12:35] INFO     InstagramBot: ✅ Bot stopped
+[2026-07-16 19:12:35] INFO     InstagramBot: ✅ Shutdown complete
